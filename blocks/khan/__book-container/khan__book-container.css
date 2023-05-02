@@ -1,0 +1,7 @@
+.khan__book-container {
+  display: grid;
+  grid-template-columns: 608px auto auto;
+  column-gap: 48px;
+  justify-self: start;
+  align-self: start;
+}

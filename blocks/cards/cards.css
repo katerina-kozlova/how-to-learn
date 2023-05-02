@@ -1,0 +1,8 @@
+.cards {
+margin: 0 auto;
+width: 920px;
+display: grid;
+grid-template-columns: 240px 240px 240px;
+column-gap: 100px;
+padding: 0;
+}

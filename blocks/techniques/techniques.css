@@ -1,3 +1,8 @@
 .techniques {
     width: 80%;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    flex-direction: column;
+    margin: 0 auto 0;
 }

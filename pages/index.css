@@ -1,6 +1,6 @@
 @import url(../vendor/normalize.css);
 
-@import url(../blocks/root/root.css);
+@import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/header__title.css);
@@ -66,7 +66,7 @@
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__link/resources__link.css);
 
-@import url(../blocks/techniques/tehniques.css);
+@import url(../blocks/techniques/techniques.css);
 
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
